@@ -1,0 +1,24 @@
+.ckcalculator {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(161, 161, 221);
+    padding: 2px;
+    border: 1px solid rgba(76, 20, 20, 0.695);
+}
+
+.ckcalculator  .operations-block button {
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+}
+
+.ckcalculator  .inputs-block .input-block{
+    display: inline-block;
+    padding: 10px;
+}
+
+
+.ckcalculator  .inputs-block .input-block label {
+    display: block;
+}
